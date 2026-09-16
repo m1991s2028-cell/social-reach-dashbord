@@ -1,0 +1,12 @@
+# أسرار — لا تُرفع أبدًا
+.env
+
+# مكتبات نود
+node_modules/
+
+# بيانات محلية
+data/snapshots.json
+
+# ملفات نظام
+.DS_Store
+Thumbs.db
